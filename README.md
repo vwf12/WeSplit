@@ -1,2 +1,2 @@
 # WeSplit
-Simpli SwiftUI app for check splitting
+Simple SwiftUI app for check splitting
